@@ -18,5 +18,12 @@ Each ARML file has two sections:
 
 ## ARML Keywords
 
-ARML uses the following symbols to mark sections in a `.arml` file
+ARML uses the following symbols and keywords.
 
+
+
+| Symbol | Usage | Example |
+|--------|-------|---------|
+| `[]` | Declares a section starting.| `[source_of_truth]` |
+| `` | Declares a section starting.| `[source_of_truth]` |
+|--------|-------|---------|
