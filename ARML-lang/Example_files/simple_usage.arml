@@ -8,5 +8,10 @@ person_info[FILE]="janedoe_info.csv"
 # person_info[URL]="https://csvfilehost.net/janedoe/jobhistory.csv"
 job_history[FILE]="janedoe_job_history.csv"
 
+education
+
+certs[URL,"Certifications"]
+
+
 
 [LAYOUT]
