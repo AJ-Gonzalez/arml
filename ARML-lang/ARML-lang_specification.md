@@ -16,6 +16,10 @@ Each ARML file has two sections:
 
 - Layout: A markup section where the document contents are formatted.
 
+## ARML Datatypes
+
+
+
 ## ARML Keywords
 
 ARML uses the following symbols and keywords.

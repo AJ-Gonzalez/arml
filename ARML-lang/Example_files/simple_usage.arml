@@ -1,0 +1,12 @@
+[SOT]
+
+# person_info[RAW]="name,dob,email,phone\nJane Doe, 30 January 2000, doe.jane@company.com, +1 575-689-854"
+# person_info[URL]="https://csvfilehost.net/janedoe/personinfo.csv"
+person_info[FILE]="janedoe_info.csv"
+
+# job_history[RAW]="company,position,achievements\nExample Corp, Executive Consultant"
+# person_info[URL]="https://csvfilehost.net/janedoe/jobhistory.csv"
+job_history[FILE]="janedoe_job_history.csv"
+
+
+[LAYOUT]
