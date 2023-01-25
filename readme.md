@@ -29,7 +29,7 @@ The extended documentation for each Core Component is linked below.
 
 **Plugins and Extensions**
 
-- ARML-docker: Docker image to deploy an instance of ARML tools.
+- ARML-podman: Podman image to deploy an instance of ARML tools.
 
 ## Code Standards and Documentation
 
