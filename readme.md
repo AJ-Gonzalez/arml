@@ -12,7 +12,6 @@ ARML is a a set of tools and interfaces to automate the process of keeping and d
 
 3. Be extensible and open source.
 
-
 ## Project Structure
 
 This project will contain some core components as well as plugins and extensions, the scope of which is yet unknown. 
@@ -31,14 +30,10 @@ The extended documentation for each Core Component is linked below.
 
 - ARML-podman: Podman image to deploy an instance of ARML tools.
 
-## Code Standards and Documentation
+## Code Standards nd Documentation
 
 Each component in this repository will have its own documentation file written in Markdown. All component documentation must be linked here.
 
 Coding standards will be as per the official guidelines per language, e.g. PEP8 for Python. 
 
 Commit messages must always be descriptive and short.
-
-
-
-
