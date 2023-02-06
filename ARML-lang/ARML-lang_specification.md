@@ -1,10 +1,8 @@
 # Automated Resume Markup Language: Specification
 
-ARML aims to be easy to read, write, and process. 
+ARML aims to be easy to read, write, and process.
 
 It is an efficient, purpose-built markup language.
-
-
 
 ## ARML Files
 
@@ -18,13 +16,9 @@ Each ARML file has two sections:
 
 ## ARML Datatypes
 
-
-
 ## ARML Keywords
 
 ARML uses the following symbols and keywords.
-
-
 
 | Symbol | Usage | Example |
 |--------|-------|---------|
